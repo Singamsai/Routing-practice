@@ -1,0 +1,10 @@
+.enquire_button button{
+    height: 54px;
+    width: 160px;
+    font-size: 20px;
+    background-color: rgb(64, 64, 252);
+    border-radius: 50px;
+    color:#fff;    
+    outline: none;
+    border: none;
+}
